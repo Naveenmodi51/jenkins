@@ -3,7 +3,7 @@ public class Evenodd {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Enter the number");
+		System.out.println("Enter the number is one");
 		
 
 	}
